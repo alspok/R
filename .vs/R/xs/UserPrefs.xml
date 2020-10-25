@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{C0C87C68-5641-48BB-AE27-191C9593FB02}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="test.R">
+    <Files>
+      <File FileName="R/Program.cs" Line="14" Column="32" />
+      <File FileName="R/RScript.cs" Line="23" Column="1" />
+      <File FileName="test.R" Line="7" Column="32" NotebookId="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="R" expanded="True">
+            <Node name="Rdata" expanded="True" />
+            <Node name="R" expanded="True">
+              <Node name="RScript.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.R PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

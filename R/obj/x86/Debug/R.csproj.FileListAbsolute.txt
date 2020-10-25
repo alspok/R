@@ -1,0 +1,6 @@
+/home/alvydas/Projects/R/R/bin/Debug/R.exe
+/home/alvydas/Projects/R/R/bin/Debug/R.pdb
+/home/alvydas/Projects/R/R/obj/x86/Debug/R.csproj.CoreCompileInputs.cache
+/home/alvydas/Projects/R/R/obj/x86/Debug/R.exe
+/home/alvydas/Projects/R/R/obj/x86/Debug/R.pdb
+/home/alvydas/Projects/R/R/obj/x86/Debug/R.csprojAssemblyReference.cache
